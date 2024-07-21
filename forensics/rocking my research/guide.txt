@@ -1,0 +1,2 @@
+All you have to do is to use the tool john the ripper and use the word list,
+"Rock you.txt" and after which you would have the flag in the pdf.
