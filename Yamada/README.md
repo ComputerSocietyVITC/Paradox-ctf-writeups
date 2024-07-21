@@ -1,1 +1,0 @@
-# Paradox-ctf-writeups
