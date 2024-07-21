@@ -5,3 +5,7 @@ Decode it using an online decoder-encoder or just decode it using base64 from th
 
  DIRECT COMMAND:  cat yamada.txt | base64 -di | grep "Paradoxctf"
 
+
+
+ Flag: Paradoxctf{d1cc0v3s3_b3sb0w0R_0f_t1m3_4nd_mu51c}
+
