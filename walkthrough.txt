@@ -1,0 +1,7 @@
+YAMADA WALKTHROUGH:
+The given data is in base 64
+
+Decode it using an online decoder-encoder or just decode it using base64 from the terminal.. Then just grep out your flag which has the format Paradoxctf{}
+
+ DIRECT COMMAND:  cat yamada.txt | base64 -di | grep "Paradoxctf"
+
