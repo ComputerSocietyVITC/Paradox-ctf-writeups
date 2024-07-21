@@ -1,0 +1,5 @@
+﻿CHALLENGE TYPE:MISC/ENCODING-DECODING
+QUESTION: A flag is hidden in the given data in the yamada.txt file, contestants are required to identify the type of data and find ways to encode it.
+Flag: Paradoxctf{d1cc0v3s3_b3sb0w0R_0f_t1m3_4nd_mu51c}
+
+Built by Bharghav
