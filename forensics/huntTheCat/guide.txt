@@ -1,0 +1,10 @@
+1) open the image in any text editor to read base64 encoded text in the image, and decode it - it should read "well, harper, key to paradox is trickier than trying to herd cats in a thunderstorm"
+
+2) decrease brightness, exposures, and levels to reveal hidden text on the image which reads
+"docker pull puang59/hunt-the-cat:latest"
+"docker run -p 65432:65432 puang59/hunt-the-cat"
+"nc localhost 65432"
+
+3) once you follow the command in terminal, then after doing nc, it will ask for password which is "trickier" which we got from the text encoded in image "well, harper, key to paradox is trickier than trying to herd cats in a thunderstorm"
+
+4) after writing the password, it will output bunch of garbage text, just press ctrl+f and look for "paradoxctf" and you'll find the flag
