@@ -1,13 +1,13 @@
 # biscuit
 
-1. **Visit the Website**: Go to "https://biscuit-seven.vercel.app/" and open the browser console. You will find a base64 encoded riddle which translates to "name the best song from the album".
+1. Visit the Website: Go to "https://biscuit-seven.vercel.app/" and open the browser console. You will find a base64 encoded riddle which translates to "name the best song from the album".
 
-2. **Identify the Album**: Use reverse image search on the image shown on the website to identify the album. The album is "In the Aeroplane Over the Sea" by Neutral Milk Hotel.
+2. Identify the Album: Use reverse image search on the image shown on the website to identify the album. The album is "In the Aeroplane Over the Sea" by Neutral Milk Hotel.
 
-3. **Find the Best Song**: Look up the most listened-to song from the album. The most listened-to song is also "In the Aeroplane Over the Sea".
+3. Find the Best Song: Look up the most listened-to song from the album. The most listened-to song is also "In the Aeroplane Over the Sea".
 
-4. **Submit the Answer**: Enter "in the aeroplane ovef the sea" in the text field on the website and submit it.
+4. Submit the Answer: Enter "in the aeroplane ovef the sea" in the text field on the website and submit it.
 
-5. **Decode the Cookie**: A base64 encoded cookie will be stored in your browser. Decode this cookie to reveal the flag.
+5. Decode the Cookie: A base64 encoded cookie will be stored in your browser. Decode this cookie to reveal the flag.
 
-Flag - paradoxctf{c00k13s_4r3_4m4z1ng}
+Flag: paradoxctf{c00k13s_4r3_4m4z1ng}
