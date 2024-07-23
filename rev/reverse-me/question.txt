@@ -1,0 +1,3 @@
+Well are you good with python? We've got a working script, but it needs a few tweaks to reveal the flag. Can you make the necessary adjustments and crack the code?
+
+[Easy]
