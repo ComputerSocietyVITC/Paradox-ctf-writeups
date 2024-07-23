@@ -1,0 +1,5 @@
+We came across a strange and problematic website that displays an odd picture along with a random text field. We have no idea what to enter and submit. Can you investigate and 'capture the flag'?
+
+Website: https://biscuit-seven.vercel.app/
+
+[Easy]
