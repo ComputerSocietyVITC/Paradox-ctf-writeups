@@ -2,6 +2,8 @@
 
 readme, file names and other text written in caesar cipher (easy stuff)
 
+### Permutation of var `a` is remaining (that will actually create the question)
+
 **Changes Made**
 ----------------
 
@@ -45,11 +47,16 @@ In the end, they should get exit code 0 with these numbers
 #### Get the numbers or variable calls bounded by `()` ONLY
 
 Value of var:
+
 `a` :: 103
+
 `b` :: 0 
+
 `c` :: 2050 
-exit(2050) gives `2050 mod 256` == 2 
-so exit(c-2) is given
+
+exit(2050) gives `2050 mod 256` == 2
+
+so `exit(c-2)` is the conditional statement.
 
 #### var `a` is 100 48 111 109 95 ->from decimal to text it is `d0om_` (/ 102 in a variable is ignored as it is not under `()`)
 #### var `b` is (103-1) 49 120 51 100 -> from decimal to text it is `f1x3d`
