@@ -1,0 +1,474 @@
+TA
+ CG
+  GC
+   GC
+    TA
+     CG
+      GC
+       GC
+        TA
+         AT
+CG
+ TA
+  GC
+   TA
+    TA
+     TA
+      AT
+       GC
+        CG
+         GC
+CG
+ CG
+  GC
+   TA
+    TA
+     TA
+      TA
+       CG
+        AT
+         TA
+CG
+ TA
+  TA
+   CG
+    TA
+     TA
+      TA
+       CG
+        TA
+         TA
+GC
+ AT
+  GC
+   TA
+    AT
+     TA
+      CG
+       TA
+        CG
+         CG
+TA
+ GC
+  CG
+   TA
+    GC
+     AT
+      TA
+       TA
+        AT
+         AT
+TA
+ TA
+  CG
+   AT
+    TA
+     AT
+      GC
+       TA
+        AT
+         AT
+CG
+ TA
+  GC
+   TA
+    AT
+     AT
+      CG
+       AT
+        TA
+         TA
+TA
+ AT
+  AT
+   TA
+    GC
+     GC
+      TA
+       TA
+        CG
+         AT
+TA
+ GC
+  CG
+   TA
+    AT
+     AT
+      CG
+       AT
+        CG
+         CG
+GC
+ TA
+  TA
+   TA
+    AT
+     AT
+      TA
+       GC
+        AT
+         CG
+TA
+ GC
+  TA
+   TA
+    TA
+     GC
+      GC
+       TA
+        GC
+         GC
+GC
+ TA
+  TA
+   GC
+    TA
+     TA
+      TA
+       GC
+        TA
+         TA
+GC
+ GC
+  AT
+   TA
+    TA
+     CG
+      CG
+       GC
+        AT
+         CG
+TA
+ CG
+  GC
+   CG
+    GC
+     GC
+      CG
+       TA
+        GC
+         AT
+CG
+ TA
+  CG
+   CG
+    GC
+     TA
+      GC
+       TA
+        CG
+         CG
+CG
+ TA
+  CG
+   GC
+    TA
+     GC
+      GC
+       CG
+        CG
+         TA
+TA
+ TA
+  CG
+   TA
+    TA
+     GC
+      AT
+       TA
+        GC
+         CG
+TA
+ GC
+  CG
+   GC
+    CG
+     GC
+      CG
+       GC
+        TA
+         TA
+CG
+ CG
+  TA
+   GC
+    CG
+     GC
+      CG
+       GC
+        TA
+         AT
+CG
+ CG
+  AT
+   AT
+    CG
+     AT
+      TA
+       TA
+        GC
+         TA
+CG
+ CG
+  GC
+   TA
+    CG
+     CG
+      GC
+       TA
+        CG
+         CG
+GC
+ TA
+  TA
+   TA
+    AT
+     CG
+      CG
+       GC
+        CG
+         GC
+TA
+ GC
+  GC
+   TA
+    TA
+     AT
+      TA
+       TA
+        AT
+         CG
+TA
+ GC
+  AT
+   CG
+    TA
+     GC
+      GC
+       CG
+        GC
+         CG
+CG
+ TA
+  AT
+   GC
+    CG
+     CG
+      TA
+       TA
+        TA
+         AT
+CG
+ TA
+  GC
+   TA
+    TA
+     TA
+      AT
+       GC
+        CG
+         GC
+CG
+ CG
+  GC
+   AT
+    AT
+     TA
+      TA
+       CG
+        GC
+         AT
+AT
+ TA
+  AT
+   GC
+    CG
+     GC
+      TA
+       TA
+        TA
+         GC
+GC
+ TA
+  GC
+   AT
+    GC
+     TA
+      CG
+       GC
+        CG
+         GC
+CG
+ CG
+  TA
+   CG
+    AT
+     CG
+      GC
+       CG
+        CG
+         TA
+CG
+ GC
+  CG
+   GC
+    GC
+     CG
+      TA
+       TA
+        AT
+         CG
+CG
+ AT
+  CG
+   GC
+    AT
+     TA
+      TA
+       CG
+        TA
+         TA
+GC
+ CG
+  AT
+   TA
+    AT
+     GC
+      TA
+       CG
+        TA
+         TA
+TA
+ GC
+  GC
+   CG
+    GC
+     TA
+      TA
+       GC
+        TA
+         TA
+TA
+ GC
+  TA
+   TA
+    TA
+     AT
+      CG
+       CG
+        GC
+         CG
+GC
+ TA
+  GC
+   GC
+    TA
+     TA
+      AT
+       TA
+        TA
+         AT
+CG
+ TA
+  GC
+   AT
+    CG
+     TA
+      GC
+       GC
+        CG
+         GC
+CG
+ CG
+  GC
+   GC
+    CG
+     TA
+      CG
+       GC
+        GC
+         TA
+CG
+ GC
+  GC
+   TA
+    CG
+     GC
+      GC
+       TA
+        GC
+         AT
+CG
+ TA
+  CG
+   CG
+    TA
+     GC
+      GC
+       CG
+        TA
+         AT
+TA
+ GC
+  AT
+   AT
+    TA
+     CG
+      TA
+       TA
+        GC
+         AT
+GC
+ TA
+  AT
+   TA
+    CG
+     TA
+      CG
+       CG
+        TA
+         GC
+CG
+ TA
+  GC
+   AT
+    TA
+     TA
+      AT
+       AT
+        TA
+         TA
+CG
+ AT
+  TA
+   AT
+    GC
+     TA
+      GC
+       CG
+        AT
+         GC
+TA
+ TA
+  TA
+   GC
+    AT
+     TA
+      TA
+       CG
+        TA
+         TA
+GC
+ CG
+  AT
+   TA
+    AT
+     GC
+      TA
+       GC
+        TA
+         CG
+CG
+ GC
+  TA
+   CG
