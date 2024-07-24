@@ -1,0 +1,2 @@
+In this challenge all you have to do is to deduced the protocol that has been messed up due to the injection of data in the ascii/hexdump that basically changes the format.
+The question basically is a xor encryption question where the key is hidden in the packet header of the ethernet packet.
