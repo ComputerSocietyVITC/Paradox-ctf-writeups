@@ -1,0 +1,8 @@
+Reverse search the photograph or search "orotimatic wifi module" and you'll see and blog post about it (https://fccid.io/blog/2020/03/26/fcc-id-qwqwf121/)
+
+From there you'll get wifi module name
+
+Using the module name you can find the datasheet and find the answer to the second and third questions. Alternatively, you can just search for MCLR and find out its function in google.
+
+Since we know that the wifi module is built by BlueGiga, we can search for "BlueGiga scripting language", go to their developer guide (https://www.silabs.com/documents/public/user-guides/ug209-bgscript-scripting-language.pdf)
+From this, we can search "negative infinity" and find out its mantissa which will be the answer to the fourth question.

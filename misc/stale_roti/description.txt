@@ -1,0 +1,10 @@
+Something's off in my "roti making robot". I want to find some key information about it so that I can try and fix it. Can you help me and find the answers to these questions :)
+
+a) A module seems to not match with the name given in the photo, can you help me find the real module's name??
+b) What does the "A" stand for in the name of the module?
+c) What function is done when you CLR the MCLR in the module?
+d) What's the base of negative infinity in float values of the scripting language used for the module? (give the answer in hex, eg:0x00000001)
+
+
+flag format: paradox_ctf{a_b_c_d}
+Note: All the answers should be given in lowercase.
