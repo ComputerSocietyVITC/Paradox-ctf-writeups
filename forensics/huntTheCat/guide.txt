@@ -8,3 +8,5 @@
 3) once you follow the command in terminal, then after doing nc, it will ask for password which is "trickier" which we got from the text encoded in image "well, harper, key to paradox is trickier than trying to herd cats in a thunderstorm"
 
 4) after writing the password, it will output bunch of garbage text, just press ctrl+f and look for "paradoxctf" and you'll find the flag
+
+Flag: "paradox_ctf{9rs6jzAr_9F70K8tC_sppJiUmS0rOY}"
