@@ -75,9 +75,13 @@ This is now used to get the value of `a` through the special integer literals `1
 This can be then used to get the value of other vars.
 
 Value of var:
-`a` :: 103
-`b` :: 0 
-`c` :: 2050 (a hint is given regarding the value of c through the if statement)
+
+-> `a` :: 103
+
+-> `b` :: 0 
+
+-> `c` :: 2050 (a hint is given regarding the value of c through the if statement)
+
 
 #### var `a` is 100 48 111 109 95 ->from decimal to text it is `d0om_` (/ 102 in a variable is ignored as it is not under `()`)
 #### var `b` is (103-1) 49 120 51 100 -> from decimal to text it is `f1x3d`
