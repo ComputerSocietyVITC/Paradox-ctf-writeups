@@ -1,2 +1,4 @@
 All you have to do is to use the tool john the ripper and use the word list,
 "Rock you.txt" and after which you would have the flag in the pdf.
+
+Flag- paradox_ctf{w3ll_4tl34st_1_g0t_4b}
