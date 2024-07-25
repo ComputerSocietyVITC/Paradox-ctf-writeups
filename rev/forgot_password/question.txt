@@ -1,6 +1,0 @@
-Hey there, Trainer! I need your help. Those reckless hackers broke into my computer and messed with my files. They've encrypted my password and saved it in output.txt. But they seemed to be in a hurry and left part of my original password in flag.txt, but it's partially corrupted.
-
-Can you help me crack their code and get my password back? My Pokémon and I are counting on you!
-
-Attachments:
-a.out    flag.txt     output.txt

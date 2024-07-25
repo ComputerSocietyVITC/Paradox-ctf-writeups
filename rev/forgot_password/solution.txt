@@ -1,0 +1,19 @@
+How the question was made:
+1. Split the flag into two equal halves
+2. XOR the two equal halves and output the hex-form of the result
+3. "Corrupt" the actual flag (remove the 2nd half of the flag)
+
+CTF Attachments: 
+1. a.out
+2. flag.txt
+3. output.txt
+
+Solution:
+Method 1:
+1. Decompile the `out` file with ghidra/binaryninja or similar decompilers to get a C file
+2. Find out what kind of operation is being done with the flag string (in this case it's splititing into two and XOR-ing them) 
+3. XOR the hex-form output with the first-half of the flag given in flag.txt to get the second half
+4. Join them both to get the final flag
+
+Method 2:
+1. Follow till step 2 of the previous method and give a brief description/context and given info about the ctf to chatgpt, it will solve on its own lmao
