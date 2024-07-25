@@ -1,1 +1,3 @@
 Just replace "exec" with "print"
+
+Flag: "paradox_ctf{ff23Fw_vT5szw_Ubze}"
