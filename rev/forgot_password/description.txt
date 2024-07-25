@@ -3,4 +3,4 @@ Hey there! I need your help. Those reckless hackers broke into my computer and m
 Can you help me crack their code and get my password back? My Pokémon and I are counting on you!
 
 Attachments:
-a.out    flag.txt     output.txt
+password_gen     flag.txt     output.txt
