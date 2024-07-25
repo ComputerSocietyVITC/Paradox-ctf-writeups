@@ -1,0 +1,10 @@
+Dify and Helpman were cubing enthusiasts and were big fans of J-Perm. They had a secret messaging service which used public and private keys. They had an interesting idea to expose their private keys 2 and 3, the second public key 100000, but keep the first public key of their algorithm. They had a secret text to help them remember the secret first public key in case if they ever forget it.
+
+"bar bs gur jbefg CYY'f, fvzcyr zbirf, rirel 2-ybbx ortvaare xabjf vg.
+vg vf gur erirefr bs n G crez va rffrapr.
+vtaber gur ibvqf va orgjrra rnpu zbir
+pbzovar gur flzobyf hfvat rnpu bs gurve ahzrevp sbezf."
+
+Apparently, in order to make the algorithm more secure, I've heard a rumour that they exchange the "mirror" keys for 'Z' times. Can you help me find the final "mirror" key?
+
+flag format: paradox_ctf{final_key}

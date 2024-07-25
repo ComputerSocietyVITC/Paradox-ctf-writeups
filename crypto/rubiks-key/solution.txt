@@ -1,0 +1,16 @@
+This CTF uses an asymmetric encryption method called Diffie-Hellman encryption algorithm. This can be guessed by observing the characters in the CTF mini-story. 
+
+The message is ROT13 encoded and when deciphered, it will be:
+"one of the worst PLL's, simple moves, every 2-look beginner knows it.
+combine the symbols using each of their numeric forms.
+ignore the voids in between each move"
+
+First sentence gives away that the algorithm being used is a PLL (Permutaiton of Last Layer) algorithm in rubik's cubes, and it is generally hated by the people. It also says that every "2-look" beginner knows it. 2-look way of solving a rubik's cube is popularized by J-Perm and there are around 6-7 PLL algorithms in it. Upon some observation in J-Perm's website and his PLL tutorials, you'll see Y-Perm is very similar to T-Perm. Hence they can deduce that Y-Perm is the algorithm to be used.
+
+Second sentence just asks the participant remove any voids/spaces between the moves of the algorithm.
+
+Third sentence just asks the participant to convert the Y-Perm's moves into their ascii equivalents and combine them.
+
+To find the final key, we'll follow the normal Diffie-Hellman algorithm, until we create symmetric (hence mirror) keys. These keys will be exchanged with both the parties with the same algorithm to generate symmetric keys, for 90 times ('Z' = 90 in ascii). The final key will be 61759.
+
+A script to find the key has been given in decrypt.py
