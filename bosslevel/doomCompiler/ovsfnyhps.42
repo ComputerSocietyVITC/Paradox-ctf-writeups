@@ -1,13 +1,13 @@
-may a = ((100) - (48) + (111) + (109) * (95)) / 102;
-may b = ((a-1) + (49) - (6*20)) / ((a-52) + (100));
-may c = ((b+a-8) - 70) * ((82)); 
+may a = ((111) - (100) + (48) + (95) * (109)) / 102;
+may b = ((a-1) + (a-54) - (6*20)) / ((a-52) + (a-3));
+may c = ((b+a-8) - (b+70)) * ((a*2-124)); 
 
 # zptwsf wshfpun dpao aol pm zahaltlua dpss il fvby kvdumhss...
 
-if (c-2) {
-  exit(0);
-} else {
+if (c-2050) {
   exit(255);
+} else {
+  exit(0);
 }
 
 /* The numbers bounded by () seem to be special... */
