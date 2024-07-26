@@ -1,0 +1,13 @@
+Go to the youtube video of Bob1German's seminar in CompSoc channel and there will be a discord link
+
+# Discord link is to be added just before the event starts
+
+The discord link will guide the participants to a newly created discord channel "Carl's Kingdom"
+Using the command "!flag" will result in Carl-bot saying "those moderators must be plotting something bad in their hidden channels..." which shows that there are some hidden channels in the server.
+This can be found out using betterdiscord or other similar third-party plugins to show hidden channels on discord.
+
+The hidden channel's name is 48657265277320616e6f74686572206f6e653a205a3038736e475173484149 which when converted to text translates to "Here's another one: Z08snGQsHAI" which redirects to another compsoc yt video where the comment will have a base64 encoded flag "cGFyYWRveF9jdGZ7Y2wxM050NV9zMWdoN181MzNNNV83MF9iM19wcjM3N3lfZzAwZH0="
+
+# This base64 encoded flag is to be added just before the event starts
+
+After decoding the base64 encoded flag, you will get the correct flag.
