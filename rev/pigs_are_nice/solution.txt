@@ -1,0 +1,3 @@
+Reverse the binary and decrypt
+
+./oink BACONISCRIME will give you the flag paradoxctf{BACONISCRIME}
