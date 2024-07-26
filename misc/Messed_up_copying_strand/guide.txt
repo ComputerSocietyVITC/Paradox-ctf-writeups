@@ -1,0 +1,28 @@
+Objective:
+
+To decode an obfuscated script hosted on GitHub and ultimately retrieve an encrypted flag from a Pastebin link.
+
+Procedure:
+
+Access the GitHub Repository:
+Navigate to the GitHub repository at github.com/mame/doublehelix.
+
+Locate the Dictionary Mapping:
+Within the repository, identify the dictionary that maps binary values to characters. This dictionary is crucial as it translates the binary values into readable characters.
+
+Translate Binary Values:
+Use the identified dictionary to replace the binary values in the script with their corresponding characters. This step will convert the binary code into an obfuscated script.
+
+Decrypt the Caesar Cipher:
+The script contains a Caesar cipher. Decrypt this cipher to reveal a printable text. A Caesar cipher involves shifting each letter in the plaintext by a fixed number of places down the alphabet. The exact shift value can vary and needs to be determined.
+
+Extract the Pastebin Link:
+The decrypted text from the Caesar cipher will lead to a Pastebin link. This link is where the flag is located.
+
+Retrieve the Flag:
+Visit the Pastebin link. The flag will be encrypted using Deadfish, an esoteric programming language known for its simplicity and minimalism.
+
+Decrypt the Deadfish Encrypted Flag:
+Use a Deadfish interpreter to decrypt the flag. Deadfish has a limited set of operations and typically requires a specialized interpreter or manual decoding.
+
+By following these steps, you can successfully decode the script and retrieve the encrypted flag.
