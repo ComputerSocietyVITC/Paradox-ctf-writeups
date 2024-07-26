@@ -1,4 +1,4 @@
-The question basically tells you to go on twitter to find the account called rickvans. basically it is a steganography question where you are going to get the password from on major keyword in the text.
-
+The question basically tells you to go on twitter to find the account called rick-vans69. basically it is a steganography question where you are going to get the password from on major keyword in the text.
+paradox_ctf{M3skMe10n_1s_4y_4av0r1te}
 
 [Easy]
