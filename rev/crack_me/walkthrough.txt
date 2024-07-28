@@ -1,0 +1,5 @@
+brief walkthrough:
+decompile-->
+cat Main.java|grep -oE "'.'"|tr -d "'"|tac| tr -d "\n" (can be done just with a paper or in mind too but this is easy for copy pasting)-->
+call the function hash() by modifying code-->
+recompile and run to get the flag
