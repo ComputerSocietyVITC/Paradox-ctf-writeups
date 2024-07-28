@@ -1,1 +1,1 @@
-1flag{wf121-a_antenna_reset_0x00800002}
+paradox_ctf{wf121-a_antenna_reset_0x00800002}
