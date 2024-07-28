@@ -22,6 +22,8 @@ The decrypted text from the Caesar cipher will lead to a Pastebin link. This lin
 Retrieve the Flag:
 Visit the Pastebin link. The flag will be encrypted using Deadfish, an esoteric programming language known for its simplicity and minimalism.
 
+  Flag:paradox_ctf{stop_replicating_me}
+
 Decrypt the Deadfish Encrypted Flag:
 Use a Deadfish interpreter to decrypt the flag. Deadfish has a limited set of operations and typically requires a specialized interpreter or manual decoding.
 
