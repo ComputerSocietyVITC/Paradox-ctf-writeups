@@ -4,7 +4,7 @@ import hashlib
 import random
 from sympy import symbols, exp, sqrt, Eq, solve
 
-FLAG = b'paradoxctf{4tl34st_y0u_kn0w_th3_b4s1cs_j0hn}'
+FLAG = b'paradox_ctf{4tl34st_y0u_kn0w_th3_b4s1cs_0f_ca1cul3s}'
 
 key = random.getrandbits(7)
 
