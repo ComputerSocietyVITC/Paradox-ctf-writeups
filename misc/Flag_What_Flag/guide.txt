@@ -1,0 +1,2 @@
+1. Open the pdf
+2. Select all using ctrl+A
