@@ -1,0 +1,4 @@
+1. Go to any Hex editor tool or website
+2. Upload the image
+3. Change the Hex value of starting with the Hex of .png
+4. Download it after saving and get the Flag
