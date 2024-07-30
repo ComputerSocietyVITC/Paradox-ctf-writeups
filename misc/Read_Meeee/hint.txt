@@ -1,0 +1,2 @@
+Pay attention to the format and strategy for decoding the QR code. The flag will be in the format paradox_ctf{...}.
+

@@ -1,0 +1,14 @@
+# Read Meeee - Guide
+
+This guide will assist you in decoding the provided rMQR code and retrieving the flag.
+
+## Step-by-Step Instructions
+
+### 1. Download the QR Code Image
+First, download the QR code image provided in the challenge.
+
+### 2. Decode the QR Code
+
+To read rMQR code, we can use QRQR app
+
+Download QRQR App
