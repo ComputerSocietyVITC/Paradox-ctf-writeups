@@ -1,4 +1,4 @@
 The first half of the flag is the first message in the general channel which can be found using a simple search of the flag format.
-The second half of the flag is hidden in the description of the support channel.
+The second half of the flag is hidden in one of the instagram comments related to paradox.(Pretty Vague ik but ik you can figure it out :) )
 
 # This challenge is intended to be a simple sanity check.
